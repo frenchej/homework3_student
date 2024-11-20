@@ -31,5 +31,9 @@ Also, make sure that your git commands are running without errors before you ref
 Then, you can see if you made an error with your git add, commit, or push commands.
 
 
-### _your name and UW net ID_
-Write your paragraph on the importance of the required plot elements here.
+### Lizzie French (2367682)
+
+Creating figures to represent scientific data helps expand the audience of the data beyond from those who can sort through the bulk of it tediously. Having figures of the data is also helpful when wanting to draw conclusions from the information from a visual method, as well as from the application of statistical tests. Plot elements such as grid, invert_yaxis, and add_features, all make the figures more visually appealing and easier to read. Other elements such as adding a legend, title, axis, and colorbar labels, help make the figure more clear and useful to draw information from. 
+
+## Reflection: Why is this part of the question included in this homework?
+    This question is included in the homework in order to think about the plot elements we are learning and connect them to useful applications. In order to correctly apply what we learn, it's important to think about why we are even learning them in the first place, and how we can answer scientific questions more effieciently. 
